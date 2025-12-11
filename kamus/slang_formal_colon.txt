@@ -3,6 +3,7 @@ gue:saya
 gua:saya
 gw:saya
 gwe:saya
+gue.:saya
 sy:saya
 sbg:sebagai
 sndri:sendiri
@@ -17,6 +18,7 @@ tsb:tersebut
 loe:kamu
 lo:kamu
 elu:kamu
+elo:kamu
 km:kamu
 kmu:kamu
 koe:kamu
