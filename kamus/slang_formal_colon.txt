@@ -3,6 +3,8 @@ gue:saya
 gua:saya
 gw:saya
 gwe:saya
+sy:saya
+sbg:sebagai
 loe:kamu
 lo:kamu
 elu:kamu
