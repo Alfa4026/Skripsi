@@ -5,6 +5,14 @@ gw:saya
 gwe:saya
 sy:saya
 sbg:sebagai
+sndri:sendiri
+bbrp:beberapa
+smpai:sampai
+dtk:detik
+blm:belum
+mkna:makna
+olh:oleh
+tsb:tersebut
 loe:kamu
 lo:kamu
 elu:kamu
