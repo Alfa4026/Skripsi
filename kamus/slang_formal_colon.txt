@@ -100,6 +100,7 @@ kmux:kamu
 kmuq:kamu
 kmuzz:kamu
 kmuss:kamu
+kec:kecamatan
 ygg:yang
 ygk:yang
 ygx:yang
