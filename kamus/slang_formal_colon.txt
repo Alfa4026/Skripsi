@@ -9,6 +9,7 @@ sndri:sendiri
 bbrp:beberapa
 smpai:sampai
 dtk:detik
+gmn:gimana
 blm:belum
 mkna:makna
 olh:oleh
